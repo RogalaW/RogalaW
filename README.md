@@ -23,6 +23,8 @@
     -Testowanie w metodyce BDD
 
     -Selenium IDE oraz Selenium WebDriver
+    
+    -J.Angielski poziom B2
   
 - Umiejętności:
 
