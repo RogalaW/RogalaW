@@ -23,8 +23,6 @@
     -Testowanie w metodyce BDD
 
     -Selenium IDE oraz Selenium WebDriver
-    
-    -J.Angielski poziom B2
   
 - Umiejętności:
 
@@ -39,6 +37,8 @@
     -Automatyzacja testów z użyciem Selenium WebDriver
   
     -Posiadam wiedzę podstawowa z zakresu ISTQB
+    
+    -J.Angielski poziom B2
 
 - Dodatkowo: 
 
